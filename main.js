@@ -1,5 +1,5 @@
 var images = ["https://i.postimg.cc/MGn9GJXw/family.jpg","https://i.postimg.cc/qqyYvVbq/grandpa.jpg", "https://i.postimg.cc/wjMnFtMX/father.jpg" , "https://i.postimg.cc/5ymDKL83/bro.jpg", "https://i.postimg.cc/JnL6wtrd/sister.jpg", "https://i.postimg.cc/bw5W5zSK/mother.jpg"];
-var names = ["Fmaily Book","Rupesh Cheela", "Ashvini Cheela", "Rithvika Cheela", "Riyansh Cheela", "Soni Singh"];
+var names = ["Fmaily Book","Rupesh Cheela", "Ashvini Cheela", "Rithvika Cheela", "Riyansh Cheela"];
 var i = 0;
 function update()
 {
